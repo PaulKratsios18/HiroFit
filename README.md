@@ -2,6 +2,15 @@
 
 HiroFit is an innovative iOS fitness application that leverages computer vision and machine learning to provide real-time workout tracking and feedback. The app helps users perfect their form and maximize their workout effectiveness through intelligent motion tracking and personalized coaching.
 
+## Media
+
+<div style="display: flex; justify-content: center; flex-wrap: nowrap;">
+  <img src="./hiroFitImages/homepage.png" width="200" height="400" style="margin: 10px; border-radius: 8px;" />
+  <img src="./hiroFitImages/workoutSelection.png" width="200" height="400" style="margin: 10px; border-radius: 8px;" />
+  <img src="./hiroFitImages/cameraView2.png" width="210" height="400" style="margin: 10px; border-radius: 8px;" />
+  <img src="./hiroFitImages/results.png" width="200" height="400" style="margin: 10px; border-radius: 8px;" />
+</div>
+
 ## Features
 
 ### 🏋️ Comprehensive Exercise Library
@@ -38,15 +47,22 @@ HiroFit is an innovative iOS fitness application that leverages computer vision 
 - **Architecture**: MVVM
 - **iOS Target**: iOS 15+
 
-## Screenshots
-
-<div style="display: flex; justify-content: center; flex-wrap: nowrap;">
-  <img src="./hiroFitImages/homepage.png" width="200" height="400" style="margin: 10px; border-radius: 8px;" />
-  <img src="./hiroFitImages/workoutSelection.png" width="200" height="400" style="margin: 10px; border-radius: 8px;" />
-  <img src="./hiroFitImages/cameraView2.png" width="210" height="400" style="margin: 10px; border-radius: 8px;" />
-  <img src="./hiroFitImages/results.png" width="200" height="400" style="margin: 10px; border-radius: 8px;" />
-</div>
-
 ## Installation
 
 1. Clone the repository
+```bash
+git clone https://github.com/PaulKratsios18/HiroFit.git
+```
+
+2. Open the project in Xcode
+```bash
+cd HiroFit
+open HiroFit.xcodeproj
+```
+
+3. Build and run the application
+
+
+## Acknowledgments
+
+- Designed and developed by Wyatt Makedonski, Lavin Hira, Paul Kratsios
